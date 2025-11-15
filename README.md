@@ -1,6 +1,5 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
-4. ##**EX.NO:**
- ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
+4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 	DATE:
  ##AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
@@ -115,6 +114,7 @@ Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
 ---
+
 ## PROCEDURE
 
 1.	Connections are given as per the circuit diagram
