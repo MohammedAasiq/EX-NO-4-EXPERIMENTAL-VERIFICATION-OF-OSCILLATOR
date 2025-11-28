@@ -1,4 +1,4 @@
-# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
+8# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 	DATE:
  ##AIM:
@@ -60,13 +60,14 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
 | S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
 |------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+| 1    |        12.0           |         5.17    |      193.6hz         |
+
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![wein r2r 8](https://github.com/user-attachments/assets/9880d730-baa6-43e5-b9dc-af5134ccd2ee)
+
 
 
 ---
@@ -127,13 +128,12 @@ Rf = 15K *2=30KΩ
 
 | S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
 |------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+| 1    |   21v                 |      0.7v            |  1.37              |
+
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![wein r2r 8](https://github.com/user-attachments/assets/d7ff3e3b-284b-4cee-bc1d-66b9a1a6b36d)
 
 
 ---
