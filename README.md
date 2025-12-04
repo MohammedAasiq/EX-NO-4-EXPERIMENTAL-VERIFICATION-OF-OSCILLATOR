@@ -29,15 +29,14 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="1600" height="1098" alt="image" src="https://github.com/user-attachments/assets/893c6091-0d39-40b1-8310-43598f7d49ac" />
-
+![IMG-20251204-WA0039 1](https://github.com/user-attachments/assets/e1446146-9c88-4af4-b19f-b7bec83ade7b)
 
 
 
 ---
 
 ## MODEL GRAPH
-<img width="1600" height="557" alt="image" src="https://github.com/user-attachments/assets/0c0586ef-1052-4683-8bbc-c413d4677908" />
+![IMG-20251204-WA0039 1](https://github.com/user-attachments/assets/399c9aee-69c0-4560-b5ef-061ee96cdd6a)
 
 
 ## RC PHASE SHIFT OSCILLATOR
@@ -88,13 +87,13 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-![WhatsApp Image 2025-11-27 at 22 01 49](https://github.com/user-attachments/assets/5f86abd1-e548-4b6d-9c42-123af259a6a9)
+![IMG-20251204-WA0040 1](https://github.com/user-attachments/assets/11701eec-39e7-44a1-95e5-f044a22a9c7d)
 
 
 
 ---
 ## MODEL GRAPH
-![WhatsApp Image 2025-11-27 at 22 02 02](https://github.com/user-attachments/assets/4152d80b-88ca-4536-b891-98ed69533cdf)
+![IMG-20251204-WA0040 1](https://github.com/user-attachments/assets/da1a31a2-2b9d-4168-ab62-3521d49678d2)
 
 
 ---
