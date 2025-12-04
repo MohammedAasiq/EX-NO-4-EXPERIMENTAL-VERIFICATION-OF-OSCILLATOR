@@ -1,4 +1,4 @@
-8# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
+# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 	DATE:
  ##AIM:
@@ -29,16 +29,16 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+<img width="1600" height="1098" alt="image" src="https://github.com/user-attachments/assets/893c6091-0d39-40b1-8310-43598f7d49ac" />
+
 
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+<img width="1600" height="557" alt="image" src="https://github.com/user-attachments/assets/0c0586ef-1052-4683-8bbc-c413d4677908" />
 
-## DESIGN
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -60,15 +60,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
 | S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
 |------|--------------------|------------------|----------------|
-| 1    |        12.0           |         5.17    |      193.6hz         |
-
+| 1    |   12.0                 |     5.17             |       193.6         |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![wein r2r 8](https://github.com/user-attachments/assets/9880d730-baa6-43e5-b9dc-af5134ccd2ee)
-
-
+![IMG-20251204-WA0020 1](https://github.com/user-attachments/assets/52e2abcd-9795-4673-a295-3a727fce417e)
 
 ---
 ## THEORY
@@ -91,12 +88,14 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+![WhatsApp Image 2025-11-27 at 22 01 49](https://github.com/user-attachments/assets/5f86abd1-e548-4b6d-9c42-123af259a6a9)
+
 
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+![WhatsApp Image 2025-11-27 at 22 02 02](https://github.com/user-attachments/assets/4152d80b-88ca-4536-b891-98ed69533cdf)
+
 
 ---
 
@@ -128,12 +127,11 @@ Rf = 15K *2=30KΩ
 
 | S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
 |------|--------------------|------------------|----------------|
-| 1    |   21v                 |      0.7v            |  1.37              |
-
+| 1    |   21                 |     0.72             |     1.37           |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![wein r2r 8](https://github.com/user-attachments/assets/d7ff3e3b-284b-4cee-bc1d-66b9a1a6b36d)
+![IMG-20251204-WA0020 1](https://github.com/user-attachments/assets/6c092189-33d7-48ad-bead-44c608750864)
 
 
 ---
